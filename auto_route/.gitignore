@@ -73,3 +73,6 @@ pubspec.lock
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 /test/.test_coverage.dart
 /coverage/
+
+# FVM Version Cache
+.fvm/
